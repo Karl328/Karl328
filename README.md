@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## `Мои тестовые проекты` 
 ### `MVC`
 - **<a href="https://github.com/Karl328/TestBeers">TestBeers</a>**
-- **<a href="https://github.com/Karl328/CatsAPI">TestBeers</a>**
+- **<a href="https://github.com/Karl328/CatsAPI">CatsAPI</a>**
 
 ### `Контакты`
 telegram: @force328 <br>
