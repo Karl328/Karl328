@@ -6,7 +6,7 @@
 
 
 Here are some ideas to get you started:
-
+ff
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## `Мои тестовые проекты` 
+## `My Projects 
 ### `MVC`
 - **<a href="https://github.com/Karl328/TestBeers">TestBeers</a>**
 - **<a href="https://github.com/Karl328/CatsAPI">CatsAPI</a>**
-
-### `Контакты`
+### `MVVM`
+- **<a href="https://github.com/Karl328/BeersMVVM">BeersMVVM</a>**
+### `Contacts`
 telegram: @force328 <br>
 ✉️ linarnigmatzyanov10@gmail.com
