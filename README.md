@@ -16,7 +16,7 @@ ff
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## `My Projects 
+## My Projects 
 ### `MVC`
 - **<a href="https://github.com/Karl328/TestBeers">TestBeers</a>**
 - **<a href="https://github.com/Karl328/CatsAPI">CatsAPI</a>**
